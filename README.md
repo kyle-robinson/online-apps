@@ -1,6 +1,6 @@
 # Online Applications
 
-A collections of links to projects that implement multithreading with appropriate networking architectures to allow for the communication of devices across a local network, allowing for multiplayer functionality to be achieved.
+A collection of links to projects that implement multithreading with appropriate networking architectures to allow for the communication of devices across a local network, allowing for multiplayer functionality to be achieved.
 
 *Click any image to view project on GitHub*<br/>
 <a href="https://github.com/kyle-robinson/paint-online" target="_blank">
