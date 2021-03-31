@@ -13,7 +13,7 @@ A collection of links to projects that implement multithreading with appropriate
 <br/>
 <a href="https://github.com/kyle-robinson/messaging-app" target="_blank">
         <img src="https://raw.githubusercontent.com/kyle-robinson/messaging-app/master/Assets/Client%20Demo%201.png?token=AJPP2FXINWU3QQH2ODSF7WC74I62G" alt="Client Message Application Demo 1" border="10" width="36%" />
-</a> &nbsp;
+</a> &nbsp; &nbsp;
 <a href="https://github.com/kyle-robinson/messaging-app" target="_blank">
         <img src="https://raw.githubusercontent.com/kyle-robinson/messaging-app/master/Assets/Client%20Demo%202.png?token=AJPP2FWO4D2R6YAHIVWXH7S74I7B2" alt="Client Message Application Demo 2" border="10" width="36%" />
 </a>
