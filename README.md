@@ -7,7 +7,7 @@ A collection of links to projects that implement multithreading with appropriate
 <a href="https://github.com/kyle-robinson/paint-online" target="_blank">
         <img src="https://raw.githubusercontent.com/kyle-robinson/paint-online/master/Assets/Paint%20Demo.png?token=AJPP2FSGVGJH555WWOI2RDK74I6ZI" alt="Paint Application Demo" border="10" width="80%" />
 </a>
-<p>Online Paint Application<p>
+<p><em>Online Paint Application</em></p>
 
 <!-- Chat Client -->
 <br/>
@@ -17,4 +17,4 @@ A collection of links to projects that implement multithreading with appropriate
 <a href="https://github.com/kyle-robinson/messaging-app" target="_blank">
         <img src="https://raw.githubusercontent.com/kyle-robinson/messaging-app/master/Assets/Client%20Demo%202.png?token=AJPP2FWO4D2R6YAHIVWXH7S74I7B2" alt="Client Message Application Demo 2" border="10" width="40%" />
 </a>
-<p>Networked Chat Client</p>
+<p><em>Networked Chat Client</em></p>
